@@ -1,1 +1,3 @@
-# practica1_Flutter-9B
+# practica 1 Guiada de Flutter-9B
+
+Carlos Andres Be Garrido
