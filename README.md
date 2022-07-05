@@ -2,7 +2,7 @@ INGENIERÍA EN DESARROLLO Y GESTIÓN DE SOFTWARE
 
 Desarrollo para Dispositivos Inteligentes
 
-# Práctica Guíada de Flutter 1
+# Prácticas Guíada de Flutter
 Carlos Andres Be Garrido
 
 9B
